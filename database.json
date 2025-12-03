@@ -1,0 +1,22 @@
+{
+    "12345678": {
+        "nombre": "Juan Pérez",
+        "estado": "Deudor",
+        "debeA": 3
+    },
+    "42764662": {
+        "nombre": "Gustavo Fidelis",
+        "estado": "Al día",
+        "debeA": 1
+    },
+    "44789456": {
+        "nombre": "Rafael Veiga",
+        "estado": "Deudor",
+        "debeA": 5
+    },
+    "87654321": {
+        "nombre": "Maria García",
+        "estado": "Al día",
+        "debeA": 0
+    }
+}
